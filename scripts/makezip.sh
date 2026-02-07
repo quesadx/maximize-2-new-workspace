@@ -1,6 +1,6 @@
 #!/bin/sh
 
-NAME=fullscreen-to-empty-workspace@aiono.dev
+NAME=maximize-2-new-workspace@quesadx
 DIR=src
 pushd $DIR
 zip -r $NAME.zip *

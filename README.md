@@ -1,4 +1,4 @@
-# Fullscreen to Empty Workspacee
+# maximize-2-new-workspace@quesadx
 New, maximized and fullscreen windows will be moved to empty workspaces. The extension provides options to configure what types of windows should be moved. Supports multiple monitors.
 
 ## Credits

@@ -1,13 +1,11 @@
 {
-  "name": "Fullscreen to Empty Workspace",
+  "name": "maximize-2-new-workspace@quesadx",
   "description": "New, maximized and fullscreen windows will be moved to empty workspaces.\nForked from https://github.com/kaiseracm/gnome-shell-extension-maximize-to-empty-workspace.",
-  "url": "https://github.com/onsah/fullscreen-to-new-workspace",
-  "uuid": "fullscreen-to-empty-workspace@aiono.dev",
+  "url": "https://github.com/quesadx/fullscreen-to-new-workspace-next",
+  "uuid": "maximize-2-new-workspace@quesadx",
   "shell-version": [
-    "46",
-    "48",
     "49"
   ],
   "version": 15,
-  "settings-schema": "org.gnome.shell.extensions.fullscreen-to-empty-workspace"
+  "settings-schema": "org.gnome.shell.extensions.maximize-2-new-workspace"
 }
